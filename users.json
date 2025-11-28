@@ -1,0 +1,23 @@
+{
+  "Beysa_121881": {
+    "UI": "MemCpy_2.1",
+    "System": "UX_1.3",
+
+    "ban_status": false,
+    "ban_until": "2030-01-01T00:00:00",
+
+    "freeze_status": false,
+    "freeze_until": "2025-02-18T00:00:00"
+  },
+
+  "Sumeyyem_181901": {
+    "UI": "MemCpy_2.1",
+    "System": "UX_1.3",
+
+    "ban_status": false,
+    "ban_until": "2035-03-10T00:00:00",
+
+    "freeze_status": false,
+    "freeze_until": "null"
+  }
+}
