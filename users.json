@@ -3,7 +3,7 @@
     "UI": "MemCpy_2.1",
     "System": "UX_1.3",
 
-    "ban_status": false,
+    "ban_status": true,
     "ban_until": "2030-01-01T00:00:00",
 
     "freeze_status": false,
